@@ -8,6 +8,10 @@
     { "name": "frontend-developer", "path": "skills/frontend-developer/SKILL.md" },
     { "name": "llm-council", "path": "skills/llm-council/SKILL.md" },
     { "name": "chro", "path": "skills/chro/SKILL.md" },
-    { "name": "hrbp", "path": "skills/hrbp/SKILL.md" }
+    { "name": "hrbp", "path": "skills/hrbp/SKILL.md" },
+    { "name": "caveman-commit", "path": "skills/caveman-commit/SKILL.md" },
+    { "name": "caveman-review", "path": "skills/caveman-review/SKILL.md" },
+    { "name": "morning-email-digest", "path": "skills/morning-email-digest/SKILL.md" },
+    { "name": "generium-design-kit", "path": "skills/generium-design-kit/SKILL.md" }
   ]
 }
