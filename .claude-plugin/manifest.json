@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "description": "Personal skills collection",
   "skills": [
-    { "name": "caveman", "path": "skills/caveman/SKILL.md" },
-    { "name": "api-design", "path": "skills/api-design/SKILL.md" },
-    { "name": "frontend-developer", "path": "skills/frontend-developer/SKILL.md" },
-    { "name": "llm-council", "path": "skills/llm-council/SKILL.md" },
-    { "name": "chro", "path": "skills/chro/SKILL.md" },
-    { "name": "hrbp", "path": "skills/hrbp/SKILL.md" },
-    { "name": "caveman-commit", "path": "skills/caveman-commit/SKILL.md" },
-    { "name": "caveman-review", "path": "skills/caveman-review/SKILL.md" },
-    { "name": "morning-email-digest", "path": "skills/morning-email-digest/SKILL.md" },
-    { "name": "generium-design-kit", "path": "skills/generium-design-kit/SKILL.md" }
+    { "name": "caveman", "path": "caveman/SKILL.md" },
+    { "name": "api-design", "path": "api-design/SKILL.md" },
+    { "name": "frontend-developer", "path": "frontend-developer/SKILL.md" },
+    { "name": "llm-council", "path": "llm-council/SKILL.md" },
+    { "name": "chro", "path": "chro/SKILL.md" },
+    { "name": "hrbp", "path": "hrbp/SKILL.md" },
+    { "name": "caveman-commit", "path": "caveman-commit/SKILL.md" },
+    { "name": "caveman-review", "path": "caveman-review/SKILL.md" },
+    { "name": "morning-email-digest", "path": "morning-email-digest/SKILL.md" },
+    { "name": "generium-design-kit", "path": "generium-design-kit/SKILL.md" }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "api-design": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "4a7d270e4592c77d53a8767a269434b0a242bc15ba2bbee330b7e2cdd143f508"
+    },
     "cavecrew": {
       "source": "JuliusBrussee/caveman",
       "sourceType": "github",
