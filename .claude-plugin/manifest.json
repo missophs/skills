@@ -1,0 +1,11 @@
+{
+  "name": "melissa-skills",
+  "version": "1.0.0",
+  "description": "Personal skills collection",
+  "skills": [
+    { "name": "caveman", "path": "skills/caveman/SKILL.md" },
+    { "name": "api-design", "path": "skills/api-design/SKILL.md" },
+    { "name": "frontend-developer", "path": "skills/frontend-developer/SKILL.md" },
+    { "name": "llm-council", "path": "skills/llm-council/SKILL.md" }
+  ]
+}
