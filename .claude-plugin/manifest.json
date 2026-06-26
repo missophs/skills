@@ -6,6 +6,8 @@
     { "name": "caveman", "path": "skills/caveman/SKILL.md" },
     { "name": "api-design", "path": "skills/api-design/SKILL.md" },
     { "name": "frontend-developer", "path": "skills/frontend-developer/SKILL.md" },
-    { "name": "llm-council", "path": "skills/llm-council/SKILL.md" }
+    { "name": "llm-council", "path": "skills/llm-council/SKILL.md" },
+    { "name": "chro", "path": "skills/chro/SKILL.md" },
+    { "name": "hrbp", "path": "skills/hrbp/SKILL.md" }
   ]
 }
