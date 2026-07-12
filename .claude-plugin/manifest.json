@@ -13,6 +13,7 @@
     { "name": "caveman-review", "path": "caveman-review/SKILL.md" },
     { "name": "morning-email-digest", "path": "morning-email-digest/SKILL.md" },
     { "name": "generium-design-kit", "path": "generium-design-kit/SKILL.md" },
-    { "name": "btw", "path": "btw/SKILL.md" }
+    { "name": "btw", "path": "btw/SKILL.md" },
+    { "name": "debugging-engineer", "path": "debugging-engineer/SKILL.md" }
   ]
 }
