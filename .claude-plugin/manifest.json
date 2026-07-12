@@ -12,6 +12,7 @@
     { "name": "caveman-commit", "path": "caveman-commit/SKILL.md" },
     { "name": "caveman-review", "path": "caveman-review/SKILL.md" },
     { "name": "morning-email-digest", "path": "morning-email-digest/SKILL.md" },
-    { "name": "generium-design-kit", "path": "generium-design-kit/SKILL.md" }
+    { "name": "generium-design-kit", "path": "generium-design-kit/SKILL.md" },
+    { "name": "btw", "path": "btw/SKILL.md" }
   ]
 }
