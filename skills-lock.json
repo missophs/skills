@@ -1,17 +1,167 @@
 {
   "version": 1,
   "skills": {
+    "10x": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "10x/SKILL.md",
+      "computedHash": "ae0850c9109254d6d9c0388574531f83d7cb533b6044d45db5bea8e6a9475da1"
+    },
     "api-design": {
       "source": "missophs/skills",
       "sourceType": "github",
-      "skillPath": "SKILL.md",
-      "computedHash": "4a7d270e4592c77d53a8767a269434b0a242bc15ba2bbee330b7e2cdd143f508"
+      "skillPath": "api-design/SKILL.md",
+      "computedHash": "967a222727ce0c321210e58da074201e7f759abe45f9293f99bc3f5abf8970f8"
     },
-    "cavecrew": {
-      "source": "JuliusBrussee/caveman",
+    "caveman": {
+      "source": "missophs/skills",
       "sourceType": "github",
-      "skillPath": "skills/cavecrew/SKILL.md",
-      "computedHash": "06d45a7308d8603365313decf400020106b985cb5ce500ee169bfba9c71dd147"
+      "skillPath": "caveman/SKILL.md",
+      "computedHash": "e38ec671ecbee47ce234190be12615daf60ac667d775b7340d49d07f4f63c7bc"
+    },
+    "caveman-commit": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "caveman-commit/SKILL.md",
+      "computedHash": "845d3ea96e8fd2723ead05339dd3f9edec3be9da2d007f03dd199bbbb96c82a6"
+    },
+    "caveman-review": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "caveman-review/SKILL.md",
+      "computedHash": "730535f33768c9ba08000407fe06ced06651c67b139cb215af9dabff34710c18"
+    },
+    "chro": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "chro/SKILL.md",
+      "computedHash": "c00d99a061f798266e88d092b76bc782fcc85ddf6bd480f6feb20da408d2f39d"
+    },
+    "critique": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "critique/SKILL.md",
+      "computedHash": "c2a1211c459743dcaa6182bb78d7c37e5c16db7f8e3c014937a8fe4f3661c32e"
+    },
+    "devil": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "devil/SKILL.md",
+      "computedHash": "33e9f4b0915de5542128574966f50209641a69cbea482b7c6c1c38ff84e9c582"
+    },
+    "fix-ticket-sill": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "fix-ticket-sill/SKILL.md",
+      "computedHash": "04b3516c33d4502285dd11f62e4cdaad64fa30ba2633dd9b7be76fe56f7fe5e2"
+    },
+    "fix-ticket-skill": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "fix-ticket-skill/SKILL.md",
+      "computedHash": "ec2ce8ff291e8ea036f9383be9b7d388b71ca696877f85c1bf7f1629ebbc1b66"
+    },
+    "flow-fixer": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "flow-fixer/SKILL.md",
+      "computedHash": "05326cffa72f35ce869153247f2733725eba1528ae52cd9b4e9149a4cfa0762b"
+    },
+    "frontend-developer": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "frontend-developer/SKILL.md",
+      "computedHash": "f65faba7203125ac223292ff2b299aea455dd84f3ecc58f86ec97ede545cb5e8"
+    },
+    "generium-design-kit": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "generium-design-kit/SKILL.md",
+      "computedHash": "3c8fd6d5b404cffe758767ccc918a4e125e44b2f4df948f295d0abf1d9390d8c"
+    },
+    "ghost": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "ghost/SKILL.md",
+      "computedHash": "cbe3357ad119a17fd5e38cd3abf97b6cc97ae5f854b5560962f1dc388ab13ed3"
+    },
+    "godmode": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "godmode/SKILL.md",
+      "computedHash": "2810e6fd2e6ddb0a05e25504e2bde90bda78c172578ee8339033042f019dcde4"
+    },
+    "hrbp": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "hrbp/SKILL.md",
+      "computedHash": "92a81e7bfd2c3ed8c8166176923b08e86e29a32b4cc71dbacc40f9462bfc3fd2"
+    },
+    "job-search-automation-strat": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "job-search-automation-strat/SKILL.md",
+      "computedHash": "c390df18df08e286520cc9ee792fdbb445dd694176219d7bff782a5ce6709201"
+    },
+    "l99": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "l99/SKILL.md",
+      "computedHash": "3004d90ea84fac2e9898f8d629df2b145acf1287ed2322abc57220897fc74e1d"
+    },
+    "llm-council": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "llm-council/SKILL.md",
+      "computedHash": "2255fa9a14e07a05887493ace4b18932a76e20f70721eb29ec84ec2ed4088d95"
+    },
+    "morning-email-digest": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "morning-email-digest/SKILL.md",
+      "computedHash": "008323e8eec645c67911a4974e09418957bea7a01b968910eed7175bce8a1315"
+    },
+    "no-yap": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "no-yap/SKILL.md",
+      "computedHash": "452a00e1fbb7770e10609b38557c8aa5098a7ad5820b82ef738189f0df57d842"
+    },
+    "ooda": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "ooda/SKILL.md",
+      "computedHash": "e087d31e0fed75f272a8a25ddf800d228566fe986f6df824a495e670df406898"
+    },
+    "premortem": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "premortem/SKILL.md",
+      "computedHash": "352bb84009537a9697fef1adb642a4424f1f6e5b4b697a4db2b762c43a6ada72"
+    },
+    "presentation-consultant": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "presentation-consultant/SKILL.md",
+      "computedHash": "0c5e00a8d073fb16744068a5fa0aa83e468718ed88a02ba486b930a1b3d787fb"
+    },
+    "skeptic": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "skeptic/SKILL.md",
+      "computedHash": "f1b6846c15f9b215cf09aa7e12997a5b40b8ff14e419e4c0fad3a9e721b99116"
+    },
+    "steelman": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "steelman/SKILL.md",
+      "computedHash": "a7232bb7073c0d16a9aca7b0ee84310e2e649a9007a4682bac3a7027570e9e30"
+    },
+    "think-before-answering": {
+      "source": "missophs/skills",
+      "sourceType": "github",
+      "skillPath": "think-before-answering/SKILL.md",
+      "computedHash": "2b2d99b0738ca19b2ff222275456709761eefe9e0483d500414c8a7414c95bc7"
     }
   }
 }
